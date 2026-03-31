@@ -1,0 +1,2 @@
+# An-lisis-de-la-estrategia-de-contenido-de-Netflix-An-lisis-de-g-nero-y-calificaci-n
+Este proyecto se centra en el análisis estratégico del catálogo de Netflix mediante el procesamiento de metadatos de títulos (películas y series). El análisis cubre tendencias de género, ratings, duración, países de origen y características de autorización, con un enfoque en clasificación automática (Movie vs TV Show) y recomendaciones de producto.
